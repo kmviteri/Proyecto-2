@@ -32,3 +32,31 @@ Se procedera a especificar de manera practica el procedimiento de armado e insta
 * Instalar el interruptor.
 
 * Encender la energía eléctrica y probarlo.
+
+ ## ESQUEMA E IMAGENES
+ 
+ ![image](https://user-images.githubusercontent.com/117187676/212805635-3ee1816a-ea83-4ab5-9a47-bf3c265551cd.png)
+
+ ![IMG-20230116-WA0267](https://user-images.githubusercontent.com/117187676/212810114-ea592574-f210-4d75-8b3c-ef220b3f8577.jpg)
+ 
+![IMG-20230116-WA0269](https://user-images.githubusercontent.com/117187676/212810154-3fa9d309-0048-48a9-9751-f5085242a1d3.jpg)
+
+
+# 4. VIDEO
+
+
+
+# 5. CONCLUSIONES
+
+* Se puede concluir que, gracias a el seguimiento de las instrucciones y los pasos mostrados en el video proporcionado, se pudo lograr un resultado efectivo, demostrando asi el funcionaciemto y proposito del circuito.
+
+* Gracias a los resultados obtenidos, se pudo concluir que, si un circuito eléctrico ha sido cerrado desde dos interruptores, la lámpara va a estar encendida. Pero, en el caso de que se accione este interruptor, la lámpara se apagará y si se acciona el tercero vuelve a encender, porque el circuito de la corriente eléctrica se cierra.
+
+# 6. BIBLIOGRAFIA
+
+* Morales Navarro, D., & Vila Morales, D. (2016). América del Sur de alta calidad 2way/interruptor pared 3 vías estomatología. Revista Cubana de Estomatología, 53(1), 67-83.
+
+* Antonio, A. E. J. (1980). Evaluación económica en la aplicación de la vacuna contra la enfermedad de new-castle por 3 vías diferentes de administración en aves ponedoras en jaula.
+
+* Electricista en Casa. (2020, 29 agosto). Circuito Escalera, 924, Vaiven, 3 Vias, pasó a paso. [Vídeo]. YouTube. https://www.youtube.com/watch?v=q3oUc9_qnyc
+
