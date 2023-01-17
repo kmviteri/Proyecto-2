@@ -44,7 +44,7 @@ Se procedera a especificar de manera practica el procedimiento de armado e insta
 
 # 4. VIDEO
 
-
+https://youtu.be/yK30UlCpJ-g
 
 # 5. CONCLUSIONES
 
